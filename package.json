@@ -1,0 +1,19 @@
+{
+  "name": "@alexdelgado/npm-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gadc1996/npm-hello-world.git"
+  },
+  "author": "alexdelgado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gadc1996/npm-hello-world/issues"
+  },
+  "homepage": "https://github.com/gadc1996/npm-hello-world#readme"
+}
